@@ -1,3 +1,7 @@
+# Project Specific
+**/model_randomforest.pkl 
+**/comet_creds.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

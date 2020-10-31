@@ -12,3 +12,4 @@ pandas
 numpy
 ipykernel
 sklearn
+comet_ml
