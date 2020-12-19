@@ -13,3 +13,4 @@ numpy
 ipykernel
 sklearn
 comet_ml
+streamlit
