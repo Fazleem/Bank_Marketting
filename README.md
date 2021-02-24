@@ -8,7 +8,7 @@ Banks have been facing problems to find clients who might be interested in inves
 The goal of the project is to correctly classify which customers would be interested to take long term deposits and who don't
 
 
-# Note
+### Note
 Please find the analysis under notebooks/Bank_Marketing_Analysis.ipynb. Will be pushing the changes of model testing soon
 
 Project Organization
