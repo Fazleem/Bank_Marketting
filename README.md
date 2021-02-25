@@ -9,9 +9,9 @@ The goal of the project is to correctly classify which customers would be intere
 
 
 ### Note
-For data analysis and visualizations refer to notebooks/Bank_Marketing_Analysis.ipynb.
-Model Pipeline Building refer to notebooks/BestModelSelection.ipynb.
-Hyper Parameter Tuning Pipeline Building refer to notebooks/BestModelSelection.ipynb.
+For - 1) data analysis and visualizations refer to notebooks/Bank_Marketing_Analysis.ipynb.
+    2) Model Pipeline Building refer to notebooks/BestModelSelection.ipynb.
+    3) yper Parameter Tuning Pipeline Building refer to notebooks/BestModelSelection.ipynb.
 
 
 Project Organization
