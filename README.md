@@ -9,7 +9,10 @@ The goal of the project is to correctly classify which customers would be intere
 
 
 ### Note
-Please find the analysis under notebooks/Bank_Marketing_Analysis.ipynb. Will be pushing the changes of model testing soon
+For data analysis and visualizations refer to notebooks/Bank_Marketing_Analysis.ipynb.
+Model Pipeline Building refer to notebooks/BestModelSelection.ipynb.
+Hyper Parameter Tuning Pipeline Building refer to notebooks/BestModelSelection.ipynb.
+
 
 Project Organization
 ------------
